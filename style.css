@@ -1,1 +1,32 @@
+body {
+	font-family:san serif;
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+  text-align: left;
+  color: #orange;
+	width: 100%;
+}
+
+h2 {
+	color: #ffffff;
+	font-size: 56px; 
+
+p {
+	color: black;
+	font-size: 12px;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 24px;
+	text-decoration: none;
+teGray;
+	font-size: 16px;
+}
 
